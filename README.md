@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🛠️ **Currently Learning**: Frontend development and software quality assurance
-- 🌍 **Professional Background**: Localization specialist with extensive experience in project management and quality assurance for multilingual content. I have worked for Crypto.com to deliver high-quality, localized products to customers worldwide.
+- 🌍 **Professional Background**: As a Localization Specialist with extensive experience in project management and quality assurance for multilingual content. Have worked for Crypto.com to deliver high-quality, localized products to customers worldwide.
 - 📫 **How to reach me**: sseo.code@gmail.com
